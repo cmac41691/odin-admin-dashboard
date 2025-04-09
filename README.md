@@ -12,7 +12,8 @@ A simple and responsive admin dashboard layout built with HTML, CSS Grid, and mi
 
 ## 🚀 Live Demo
 
-[View the live site here](#) <!-- Replace # with GitHub Pages link once deployed -->
+[View the live site here](https://cmac41691.github.io/odin-admin-dashboard/)
+
 
 ## 📸 Screenshot
 
